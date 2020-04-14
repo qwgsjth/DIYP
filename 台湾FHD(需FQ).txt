@@ -1,0 +1,10 @@
+TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+东森财经,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+东森新闻,http://seb.sason.top/sc/dsxw_fhd.m3u8
+华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8
+民视新闻,http://seb.sason.top/sc/msxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live,http://seb.sason.top/sc/sllive_fhd.m3u8
+台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
